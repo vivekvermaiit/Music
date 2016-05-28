@@ -37,6 +37,7 @@
                 android:textSize="20sp" />
 
             <ImageView
+                android:background="#5c6bc0"
                 android:id="@+id/image"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

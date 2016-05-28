@@ -4,25 +4,25 @@
     <string name="browse">Browse</string>
     <string name="resume">Resume</string>
     <string name="enter">Enter</string>
-    <string name="song_listen">Listen to Song</string>
+    <string name="song_listen">Listen to a song</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
     <string name="death_metal">Death Metal</string>
-    <string name="death_metal_string">As the name implies, Death Metal usually tackles about life and death and is almost comparable to Black Metal. The only difference is that while the former uses more subtle and emotional sound, Death metal is all about violent sound. It’s very easy to distinguish since it can be both melodic and harsh. Pioneers of Death Metal include Death and Slayer, two bands which emerged in mid-1980’s</string>
+    <string name="death_metal_string">Death metal typically employs heavily distorted guitars, tremolo picking, deep growling vocals, blast beat drumming, minor keys or atonality, and complex song structures with multiple tempo changes. Building from the musical structure of thrash metal and early black metal, death metal emerged during the mid-1980s.</string>
     <string name="death_metal_video">https://www.youtube.com/watch?v=Izaxvm9dK_k</string>
     <string name="thrash_metal">Thrash Metal</string>
-    <string name="thrash_metal_string">The name thrash came from the word “thrashers” or teenage skate boarders. This genre incorporates heavy metal and punk music, giving focus on the view of punk music which questions how the society treat people who seem weird and different from others. Conceived in the 1980’s, trash gave popularity to artists including Metallica and Exodus.</string>
+    <string name="thrash_metal_string">Thrash metal is often regarded as the first form of extreme metal. It is generally characterized by its fast tempos, complexity and aggression. Thrash metal guitar playing is most notable for the "chugging" sound it creates through low-pitched palm muted riffs, and high-pitched shred guitar solos. Drummers often use double-kick and double-bass drumming. Vocals are most often shouted or sung in an aggressive manner. </string>
     <string name="thrash_metal_video">https://www.youtube.com/watch?v=YlWq6WXIv7M</string>
-    <string name="heavy_metal_string">Also known as Traditional or Classic Metal, Heavy Metal is said to be the ancestor of all other genres of metal music. Rooted in 1980’s, Heavy Metal introduced big names like Judas Priest, Manowar and Iron Maiden. The first Heavy Metal bands use raging sounds and few lyrics.</string>
+    <string name="heavy_metal_string">Also known as Traditional or Classic Metal, Heavy Metal is said to be the ancestor of all other genres of metal music. Rooted in 1980’s, Heavy Metal introduced big names like Judas Priest, Manowar and Iron Maiden. The first Heavy Metal bands use raging sounds and few lyrics. It is characterized by mid-to-fast-tempo riffs, by thumping basslines, crunchy riffs, extended lead guitar solos, and clean, often high-pitched vocals and anthemic choruses.</string>
     <string name="heavy_metal">Heavy Metal</string>
     <string name="heavy_metal_video">https://www.youtube.com/watch?v=h8IuFl3sMhk</string>
     <string name="black_metal">Black Metal</string>
-    <string name="black_metal_string">Black metal music uses melody to create an illusion of atmospheric emotion and isolation. This music was born out of conflict brought about by war, racism, natural selection, misunderstanding and others. The main message of black metal music is for people suffering from isolation to rise and fight to overcome difficulties brought about by the judgmental society.</string>
+    <string name="black_metal_string">Common traits of Black metal include fast tempos, shrieked vocals, highly distorted guitars played with tremolo picking, blast beat drumming, raw recording, and unconventional song structures. Initially considered a synonym for "Satanic metal", with a few bands involved in Church burnings. Not all Black metal is Satanic though and they manage to create greate atmosphere in their music :)</string>
     <string name="black_metal_video">https://www.youtube.com/watch?v=3lrS_WaQh1M</string>
     <string name="doom_metal">Doom Metal</string>
-    <string name="doom_metal_string">Founded by St. Vitus and Candlemass, Doom Metal tackles sensitive topics of harshness and despair. The first Doom Metal albums are composed of a series of long songs that almost tell a novel. Doom Metal bands are known to sing about mourning, death, war and other tragic events. At times, they tackle all these issues at once, making listeners feel a subtle kind of feeling of sadness.</string>
+    <string name="doom_metal_string">Doom metal uses slower tempos, low-tuned guitars and a much "thicker" or "heavier" sound than other metal genres. Both the music and the lyrics intend to evoke a sense of despair, dread, and impending doom. The genre is strongly influenced by the early work of Black Sabbath who are considered to be pioneers of metal. Ozzy Ozbourne, the lead vocalist, is also credit with inventing the "headbanging". </string>
     <string name="doom_metal_video">https://www.youtube.com/watch?v=LQUXuQ6Zd9w</string>
     <string name="power_metal">Power Metal</string>
-    <string name="power_metal_string">Power Metal is much easier to distinguish than other sub-genres of heavy metal. It incorporates music and vocals in a more subtle way. The lyrics are usually about a wide range of topics but sang on faster way incorporating strong music background and accentuated with keyboards. Just like other sub-genres, it makes use of the guitar more than other instruments but vocals are not left behind.</string>
+    <string name="power_metal_string">Power metal takes influence from heavy metal and speed metal, and often emphasizes clean, melodic, high-pitched vocals, and fast pacing that is mostly driven by double bass drumming and melodic lead guitar. The rhythm guitar is defined by straight power chord progressions. Sometimes, harsh vocals are used, but usually only as backing vocals. Lyrics usually involve fantasy themes. The songs often have a theatrical, emotionally "powerful" sound.</string>
     <string name="power_metal_video">https://www.youtube.com/watch?v=BC5VesTbFhg</string>
 </resources>

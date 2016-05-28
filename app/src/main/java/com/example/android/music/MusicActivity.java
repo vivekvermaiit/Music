@@ -98,7 +98,7 @@ public class MusicActivity extends AppCompatActivity {
         PageItem doomMetal = new PageItem(R.string.doom_metal, R.string.doom_metal_string, R.string.doom_metal_video, R.drawable.sabbath);
         PageItem powerMetal = new PageItem(R.string.power_metal, R.string.power_metal_string, R.string.power_metal_video, R.drawable.powerwolf);
 
-        pageItems = new PageItem[]{deathMetal, thrashMetal, heavyMetal, blackMetal, doomMetal, powerMetal};
+        pageItems = new PageItem[]{heavyMetal, doomMetal, thrashMetal, deathMetal, blackMetal, powerMetal};
     }
 
     /**
